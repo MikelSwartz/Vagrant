@@ -1,3 +1,5 @@
 #!/bin/bash
-yum update
+cd /vagrant/
+yum update -y
+yum upgrade -y
 yum install -y vim git
