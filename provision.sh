@@ -2,7 +2,7 @@
 cd /vagrant/
 yum update -y
 yum upgrade -y
-yum install wget vim -y
+yum install wget vim tree -y
 yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel -y
 yum install  gcc perl-ExtUtils-MakeMaker -y
 if [ -f /vagrant/git-2.8.4.tar.gz ]
