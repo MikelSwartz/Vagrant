@@ -6,6 +6,7 @@ It appears that one cannot name a repository '.git' in github as that is a reser
 #Instructions
 Pluralsight students should be able to spin up this box in Vagrant and jump right to the `Configure` section of the 'Introduction to Git' CBT.  
 The .gitignore file is setup to be able to follow along with all the examples.  
-I would use the `/vagrant/ directory as it is shared between host and guest.    
+I would use the `/vagrant/` directory as it is shared between host and guest.    
 All exercises appear to work with the 2.8.4 version of git.  
+It does not include `gitk`. This is a base 'git' environment for learning git on the command line. 
 
