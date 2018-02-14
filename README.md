@@ -10,3 +10,4 @@ I would use the `/vagrant/` directory as it is shared between host and guest.
 All exercises appear to work with the 2.8.4 version of git.  
 It does not include `gitk`. This is a base 'git' environment for learning git on the command line. 
 
+Feature2
